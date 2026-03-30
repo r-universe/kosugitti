@@ -5,3 +5,6 @@
 [submodule "exametrika"]
 	path = exametrika
 	url = https://github.com/kosugitti/exametrika
+[submodule "ggExametrika"]
+	path = ggExametrika
+	url = https://github.com/kosugitti/ggexametrika
